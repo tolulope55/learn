@@ -158,9 +158,11 @@ const E_Design = () => {
         </div>
         </div>
         </div>
-
+       
       <div className='py-2'>
-        
+      <div className='text-black max-w-[300px] sm:max-w-[500px] md:max-w-[700px] lg:max-w-[1100px] mx-auto'>
+        <p className='text-[10px] sm:text-[14px] md:text-[15px]'>Now, let's take some lessons. Pay close attention to every information on the next page</p>
+      </div>
       <Link to="/design" > <button className='bg-[#020e05] hover:bg-[#020e05] my-5 mb-5 h-[40px] md:h-[60px] rounded-[30px] max-w-[200px] sm:max-w-[400px] md:max-w-[750px] mx-auto text-center text-[11px] sm:text-[14px] md:text-[15px]'><p className='text-center mx-auto'>Take Graphic Design Assessment</p></button></Link>
       <Link to="/product"> <button className='bg-[#020e05] hover:bg-[#020e05] my-5 mb-5 h-[40px] md:h-[60px] rounded-[30px] max-w-[200px] sm:max-w-[400px] md:max-w-[750px] mx-auto text-center text-[11px] sm:text-[14px] md:text-[15px]'><p className='text-center mx-auto'>Take Product Design Assessment</p></button></Link>
       </div>

@@ -12,7 +12,7 @@ const E_Development = () => {
             <p className='text-[15px] pt-10 sm:text-[20px] font-[500]'>Alright! let's look at web development</p>
             <div>
                 <div className='max-w-[113px] sm:max-w-[177px] h-[30px] sm:h-[35px] bg-black py-2 mt-5 '>
-                    <h2 className='text-[10px] sm:text-[14px] md:text-[15px] p-1 border-2 border-[#fff] font-[500] bg-[#000] absolute text-white w-full max-w-[110px] sm:max-w-[175px] mx-2'>Full stack Developer</h2>
+                    <h2 className='text-[10px] sm:text-[14px] md:text-[15px] p-1 border-2 border-[#fff] font-[500] bg-[#000] absolute text-white w-full max-w-[130px] sm:max-w-[185px] mx-2'>Full stack Development</h2>
                 </div>
                 <p className='py-5 text-[10px] sm:text-[14px] md:text-[15px]'>The term "full stack developer" 
                 refers to a developer or engineer who is capable of working on projects that entail databases, APIs, the creation of user-facing websites,
@@ -33,11 +33,10 @@ const E_Development = () => {
             </div>
 
             <div className='max-w-[113px] sm:max-w-[177px] h-[30px] sm:h-[35px] bg-black py-2 mt-5 '>
-                    <h2 className='text-[10px] sm:text-[14px] md:text-[15px] p-1 border-2 border-[#fff] font-[500] bg-[#000] absolute text-white w-full max-w-[110px] sm:max-w-[175px] mx-2'>Frontend Developer</h2>
+                    <h2 className='text-[10px] sm:text-[14px] md:text-[15px] p-1 border-2 border-[#fff] font-[500] bg-[#000] absolute text-white w-full max-w-[130px] sm:max-w-[185px] mx-2'>Frontend Development</h2>
                 </div>
         
-            <p className='text-[10px] sm:text-[14px] md:text-[15px] py-3'>Have you ever visited a website and wondered the design choices made,
-             the functionality of the buttons, and how difficult it must be? or I wish I had the ability to do it. Front end developers design the 
+            <p className='text-[10px] sm:text-[14px] md:text-[15px] py-3'>Have you ever visited a website and you loved the design so much that you wish you could to do it. Front end developers design the 
              elements of websites that users can see and interact with directly through web browsers, such as web pages and user interfaces. The
               front end of a website (or online or mobile application) refers to the area that users view and interact with directly. HTML, CSS, 
             and JavaScript were all used in the creation of the front end. JavaScript.</p>
@@ -45,7 +44,7 @@ const E_Development = () => {
                     
                     <div>
                        <div className='max-w-[124px] sm:max-w-[185px] h-[30px] sm:h-[35px] bg-black py-2 mt-5 '>
-                       <h2 className='text-[10px] sm:text-[14px] md:text-[15px] p-1 border-2 border-[#fff] font-[500] bg-[#000] absolute text-white w-full max-w-[125px] sm:max-w-[183px] mx-2'>Back end development</h2>
+                       <h2 className='text-[10px] sm:text-[14px] md:text-[15px] p-1 border-2 border-[#fff] font-[500] bg-[#000] absolute text-white w-full max-w-[125px] sm:max-w-[183px] mx-2'>Backend development</h2>
                        </div>
                         <p className='text-[10px] sm:text-[14px] md:text-[15px] py-3'>Back end development is much more of a background process (server-side)
                          Back end programming is far more behind-the-scenes (server-side) and includes languages like PHP, whereas front end development covers
@@ -67,7 +66,7 @@ const E_Development = () => {
         <div className='max-w-[203px] sm:max-w-[288px] h-[35px] sm:h-[35px] bg-black py-2 mt-5 '>
             <h2 className='text-[10px] sm:text-[14px] md:text-[15px] p-1 border-2 border-[#fff] font-[500] bg-[#000] absolute text-white w-full max-w-[200px] sm:max-w-[285px] mx-2'>But wait, are developers in demand?</h2>
         </div>
-        <div className='max-h-[450px] p-2 md:max-h-[600px] mx-2 mt-4 border-2 border-black max-w-[260px] sm:max-w-[350px]'>
+        <div className='max-h-[450px] p-2 md:max-h-[600px] mx-2 mt-4 border-2 border-black max-w-[290px] sm:max-w-[350px]'>
         
         <p className='font-[500] text-[10px] sm:text-[14px] md:text-[15px]'>
             Front end developer, backend and full stack developer jobs
@@ -112,6 +111,9 @@ const E_Development = () => {
         
         </div>
        
+    </div>
+    <div className='max-w-[300px] sm:max-w-[500px] md:max-w-[700px] lg:max-w-[1100px] mx-auto'>
+        <p className='text-[10px] sm:text-[14px] md:text-[15px]'>Now, let's do some coding. Pay close attention to every information on the next page</p>
     </div>
     <div className='max-w-[133px] sm:max-w-[300px] h-[30px] sm:h-[35px] bg-black py-2 mt-10 sm:mt-20 mb-10 mx-auto '>
         <Link to='/development'> <button className='text-[10px] sm:text-[14px] md:text-[15px] p-1 border-2 border-[#fff] rounded-none font-[500] bg-[#000] absolute text-white w-full max-w-[135px] sm:max-w-[300px] mx-2'><p className='mx-auto'>Take Assessment</p></button></Link> 

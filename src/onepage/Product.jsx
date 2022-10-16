@@ -32,7 +32,7 @@ const Product = () => {
         content={<>
             <b className='text-[15px] sm:text-[20px] text-white font-[600]'>Goodluck!</b>
             <p className='text-[10px] sm:text-[15px] text-white py-[3px] sm:py-3'>Part of a learning process requires a commitment, it indicates how determined and dedicated you are to this things that matters</p>
-            <p className='text-[10px] sm:text-[15px] text-white'>Proceed to test with #500</p>
+            <p className='text-[10px] sm:text-[15px] text-white'>Proceed to test with 500 naira only</p>
             <a href='https://paystack.com/pay/fj4oeh3-fn' ><button className='mt-[5px] sm:mt-[40px] w-24 sm:w-72 mx-auto border-white bg-[#04220C] border-[2px]'><p className='mx-auto text-[12px] sm:text-[15px]'>Proceed</p></button></a>
           </>}
           handleClose={handlePopup}/>}
