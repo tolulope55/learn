@@ -11,7 +11,7 @@ const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <BrowserRouter basename={window.location.pathname || ''}>
   <ScrollToTop />
-  <Route exact path="/" component={Home} />
+  <Route exact path="/" component={Index} />
   </BrowserRouter>
 );
 
