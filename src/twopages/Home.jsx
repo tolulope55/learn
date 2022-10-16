@@ -15,7 +15,7 @@ const Home = () => {
        
       
         <div className=' mx-auto max-w-[300px] sm:max-w-[500px] md:max-w-[700px] lg:max-w-[1050px]'>
-        <h1 className='text-2xl pt-10 sm:pt-32 sm:text-3xl w-[330px] sm:w-[600px] font-bold text-center mx-auto'>Find out if you will make a great Designer or Developer</h1>
+        <h1 className='text-2xl pt-10 sm:pt-32 sm:text-4xl w-[330px] sm:w-[600px] font-bold text-center mx-auto'>Find out if you will make a great Designer or Developer</h1>
         <div className='bg-[#282c34 grid sm:grid-cols-2 py-3'>
           <div className='border-2 rounded-xl px-3 p-2 mt-3 sm:mt-3 sm:m-2'>
         <p className='mt-1 text-[12px] font-[500] sm:text-[17px] mx-auto'>In this guide, we will talk about Design and Development. 

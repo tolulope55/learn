@@ -71,7 +71,7 @@ const Development = () => {
   <p className='py-2 text-[10px] sm:text-[14px] md:text-[16px] font-[500]'>Alright! i hope you understand all that has been said and done? however these are just basics of programming, you need to research and practise more to become a good developer.
          I have a test for you, this is just a step to start your career if you have not started, i am certain you will make a great developer!</p>
  </div>
-  <button onClick={handlePopup} type='button' className=' border-2 rounded-none text-black hover:bg-black my-8 h-8 mx-auto max-w-[170px] sm:h-10  sm:max-w-[280px] border-black hover:text-white'><p className='mx-auto text-[14px] md:text-[16px]'>Take Test</p></button>
+  <button onClick={handlePopup} type='button' className='border-2 rounded-none text-black hover:bg-black my-8 h-8 mx-auto max-w-[170px] sm:h-10  sm:max-w-[280px] border-black hover:text-white'><p className='mx-auto text-[14px] md:text-[16px]'>Take Test</p></button>
  <Footer />
  </div>
   )

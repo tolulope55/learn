@@ -113,8 +113,8 @@ const E_Development = () => {
         </div>
        
     </div>
-    <div className='max-w-[235px] sm:max-w-[300px] h-[30px] sm:h-[35px] bg-black py-2 mt-10 sm:mt-20 mb-10 mx-auto '>
-        <Link to='/development'> <button className='text-[10px] sm:text-[14px] md:text-[15px] p-1 border-2 border-[#fff] rounded-none font-[500] bg-[#000] absolute text-white w-full max-w-[225px] sm:max-w-[300px] mx-2'><p className='mx-auto'>Take Assessment</p></button></Link> 
+    <div className='max-w-[133px] sm:max-w-[300px] h-[30px] sm:h-[35px] bg-black py-2 mt-10 sm:mt-20 mb-10 mx-auto '>
+        <Link to='/development'> <button className='text-[10px] sm:text-[14px] md:text-[15px] p-1 border-2 border-[#fff] rounded-none font-[500] bg-[#000] absolute text-white w-full max-w-[135px] sm:max-w-[300px] mx-2'><p className='mx-auto'>Take Assessment</p></button></Link> 
     </div>
     <Footer />
     </div>

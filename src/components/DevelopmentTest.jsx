@@ -134,10 +134,10 @@ const DevelopmentTest = () => {
                <>
                <div  className=''>
                <div>
-                       <div className='question-count'>
+                       <div className='question-count text-[15px] sm:text-[17px]'>
                            <span>Question {currentQuestion + 1}</span>/{questions.length}
                        </div>
-                       <div className='question-text'>{questions[currentQuestion].questionText}</div>
+                       <div className='question-text text-[12px] sm:text-[15px]'>{questions[currentQuestion].questionText}</div>
                      
                       
                    </div>

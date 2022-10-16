@@ -38,7 +38,7 @@ function App() {
   
       <Routes>
       {/* <ScrollToTop /> */}
-        <Route path="/" exact element={<Home />} />
+      <Route exact path="/" element={<Home />} />
         <Route path="e_design" element={<E_Design />} />
         <Route path="e_development" element={<E_Development />} />
         <Route path="development" element={<Development />} />
