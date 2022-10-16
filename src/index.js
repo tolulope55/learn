@@ -5,12 +5,13 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 import { BrowserRouter } from 'react-router-dom';
 import ScrollToTop from './components/ScrollToTop';
+import Home from './twopages/Home';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-  <BrowserRouter>
+  <BrowserRouter basename={window.location.pathname || ''}>
   <ScrollToTop />
-    <App />
+  <Route exact path="/" component={Home} />
   </BrowserRouter>
 );
 
