@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/learn/static/css/main.0830d675.css",
+    "main.js": "/learn/static/js/main.f6a144de.js",
+    "static/js/787.6a541d2d.chunk.js": "/learn/static/js/787.6a541d2d.chunk.js",
+    "static/media/bg.jpg": "/learn/static/media/bg.a05eedd8766684aa61be.jpg",
+    "static/media/emphasis.png": "/learn/static/media/emphasis.41947b2b406ff0344880.png",
+    "static/media/contrast.png": "/learn/static/media/contrast.1add56ab5d9917dad432.png",
+    "static/media/norule.png": "/learn/static/media/norule.a55147da957076c6db27.png",
+    "static/media/gooddesign.png": "/learn/static/media/gooddesign.b27e4993931d81c5c185.png",
+    "static/media/unfinished.png": "/learn/static/media/unfinished.be534d603f70933201a2.png",
+    "static/media/bg.png": "/learn/static/media/bg.86d2495c67de4a01e1aa.png",
+    "static/media/story.png": "/learn/static/media/story.da1e011bce171a221a8a.png",
+    "static/media/storytwo.png": "/learn/static/media/storytwo.d9ce31198af495f408f3.png",
+    "static/media/questio.png": "/learn/static/media/questio.9eb60598fc38b81d2d48.png",
+    "static/media/question.png": "/learn/static/media/question.9e106fdb902ea080082b.png",
+    "static/media/loop.png": "/learn/static/media/loop.1ea99838a27ff4332263.png",
+    "static/media/questionthree.png": "/learn/static/media/questionthree.78aa7b1dbe64fd75c58b.png",
+    "static/media/questionone.png": "/learn/static/media/questionone.536051211b004d197430.png",
+    "static/media/logo.svg": "/learn/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/learn/index.html",
+    "static/media/index.cjs": "/learn/static/media/index.cd351d7c31d0d3fccf96.cjs",
+    "main.0830d675.css.map": "/learn/static/css/main.0830d675.css.map",
+    "main.f6a144de.js.map": "/learn/static/js/main.f6a144de.js.map",
+    "787.6a541d2d.chunk.js.map": "/learn/static/js/787.6a541d2d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0830d675.css",
+    "static/js/main.f6a144de.js"
+  ]
+}
