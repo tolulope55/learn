@@ -84,7 +84,7 @@ const E_Design = () => {
               <li>uses the necessary icons, layouts, fonts, colors, and actions to emotionally attach a user to a product.</li>
             </div>
             <div className='font-[400]'>
-              <h2 className='text-[14px] sm:text-[16px] md:text-[17px] mt-2 font-[600]'>UI design</h2>
+              <h2 className='text-[14px] sm:text-[16px] md:text-[17px] mt-2 font-[600]'>UX design</h2>
               <li>emphasizes a product's usability in particular.</li>
               <li>focuses on how responsive a product is in respect to user needs.</li>
               <li>Facilitates a user to accomplish specific actions.</li>
